@@ -1,0 +1,27 @@
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.exe.config
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.exe
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.pdb
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.csprojResolveAssemblyReference.cache
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.Form1.resources
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.Properties.Resources.resources
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.csproj.GenerateResource.Cache
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.exe
+c:\users\raoha\documents\visual studio 2015\Projects\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.pdb
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.exe.config
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.exe
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.pdb
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.exe
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.pdb
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.csprojResolveAssemblyReference.cache
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.Form1.resources
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.Properties.Resources.resources
+E:\Google Drive\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.csproj.GenerateResource.Cache
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.exe.config
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.exe
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.pdb
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.exe
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\bin\Debug\Lab6_SlideShowApp.pdb
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.csprojResolveAssemblyReference.cache
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.Form1.resources
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.Properties.Resources.resources
+E:\Google Drive\C#\VP Projects Backup\Lab6_SlideShowApp\Lab6_SlideShowApp\obj\Debug\Lab6_SlideShowApp.csproj.GenerateResource.Cache
